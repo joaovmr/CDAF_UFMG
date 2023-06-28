@@ -15,3 +15,5 @@ Fórmula para cálculo de ELO :
 Diferença da probabilidade de cada time ganhar em casa vs. fora :
 
 <img width="515" alt="image" src="https://github.com/joaovmr/CDAF_UFMG/assets/56210323/2b00c265-f880-4045-b188-00e2df5fb175">
+
+https://www.canva.com/design/DAFnHnQxwTY/ycgiKdQhOhIrR64SJfKSmA/edit?utm_content=DAFnHnQxwTY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
