@@ -15,6 +15,7 @@ Newcastle,1362.56,1
 Bournemouth,1360.72,1
 Brighton,1360.4,1
 Southampton,1412.44,1
+Wolves,1200,1
 Huddersfield,1437.44,1
 Cardiff,1200,1
 Fulham,1200,1
@@ -34,6 +35,7 @@ Newcastle,1404.16,2
 Bournemouth,1326.36,2
 Brighton,1387.44,2
 Southampton,1393.56,2
+Wolves,1200,2
 Huddersfield,1411.36,2
 Cardiff,1200,2
 Fulham,1200,2
@@ -53,6 +55,7 @@ Newcastle,1401.24,3
 Bournemouth,1330.96,3
 Brighton,1387.0,3
 Southampton,1392.76,3
+Wolves,1200,3
 Huddersfield,1409.56,3
 Cardiff,1200,3
 Fulham,1200,3
@@ -72,6 +75,7 @@ Newcastle,1401.72,4
 Bournemouth,1318.4,4
 Brighton,1368.12,4
 Southampton,1372.84,4
+Wolves,1200,4
 Huddersfield,1368.56,4
 Cardiff,1200,4
 Fulham,1200,4
@@ -91,6 +95,7 @@ Newcastle,1397.44,5
 Bournemouth,1326.36,5
 Brighton,1388.68,5
 Southampton,1394.04,5
+Wolves,1200,5
 Huddersfield,1377.4,5
 Cardiff,1200,5
 Fulham,1200,5
@@ -110,6 +115,7 @@ Newcastle,1358.84,6
 Bournemouth,1372.36,6
 Brighton,1403.4,6
 Southampton,1360.68,6
+Wolves,1200,6
 Huddersfield,1374.2,6
 Cardiff,1200,6
 Fulham,1200,6
@@ -129,6 +135,7 @@ Newcastle,1341.12,7
 Bournemouth,1352.16,7
 Brighton,1383.48,7
 Southampton,1369.6,7
+Wolves,1200,7
 Huddersfield,1351.16,7
 Cardiff,1200,7
 Fulham,1200,7
@@ -148,6 +155,7 @@ Newcastle,1313.52,8
 Bournemouth,1351.84,8
 Brighton,1347.36,8
 Southampton,1374.16,8
+Wolves,1200,8
 Huddersfield,1352.88,8
 Cardiff,1200,8
 Fulham,1200,8
@@ -167,6 +175,7 @@ Newcastle,1285.28,9
 Bournemouth,1327.4,9
 Brighton,1339.52,9
 Southampton,1344.6,9
+Wolves,1200,9
 Huddersfield,1361.36,9
 Cardiff,1200,9
 Fulham,1200,9
@@ -186,6 +195,7 @@ Newcastle,1305.36,10
 Bournemouth,1320.0,10
 Brighton,1346.64,10
 Southampton,1331.84,10
+Wolves,1200,10
 Huddersfield,1358.32,10
 Cardiff,1200,10
 Fulham,1200,10
@@ -205,6 +215,7 @@ Newcastle,1328.72,11
 Bournemouth,1345.28,11
 Brighton,1343.96,11
 Southampton,1322.04,11
+Wolves,1200,11
 Huddersfield,1345.28,11
 Cardiff,1200,11
 Fulham,1200,11
@@ -224,6 +235,7 @@ Newcastle,1318.36,12
 Bournemouth,1373.52,12
 Brighton,1311.12,12
 Southampton,1330.96,12
+Wolves,1200,12
 Huddersfield,1304.32,12
 Cardiff,1200,12
 Fulham,1200,12
@@ -243,6 +255,7 @@ Newcastle,1326.44,13
 Bournemouth,1415.76,13
 Brighton,1335.6,13
 Southampton,1348.96,13
+Wolves,1200,13
 Huddersfield,1286.88,13
 Cardiff,1200,13
 Fulham,1200,13
@@ -262,6 +275,7 @@ Newcastle,1360.04,14
 Bournemouth,1386.4,14
 Brighton,1355.4,14
 Southampton,1341.56,14
+Wolves,1200,14
 Huddersfield,1332.44,14
 Cardiff,1200,14
 Fulham,1200,14
@@ -281,6 +295,7 @@ Newcastle,1368.16,15
 Bournemouth,1375.28,15
 Brighton,1357.72,15
 Southampton,1320.32,15
+Wolves,1200,15
 Huddersfield,1324.64,15
 Cardiff,1200,15
 Fulham,1200,15
@@ -300,6 +315,7 @@ Newcastle,1406.72,16
 Bournemouth,1379.04,16
 Brighton,1330.64,16
 Southampton,1303.96,16
+Wolves,1200,16
 Huddersfield,1294.56,16
 Cardiff,1200,16
 Fulham,1200,16
@@ -319,6 +335,7 @@ Newcastle,1425.28,17
 Bournemouth,1357.68,17
 Brighton,1324.88,17
 Southampton,1287.08,17
+Wolves,1200,17
 Huddersfield,1312.0,17
 Cardiff,1200,17
 Fulham,1200,17
@@ -338,6 +355,7 @@ Newcastle,1354.08,18
 Bournemouth,1353.64,18
 Brighton,1363.2,18
 Southampton,1316.8,18
+Wolves,1200,18
 Huddersfield,1293.64,18
 Cardiff,1200,18
 Fulham,1200,18
@@ -357,6 +375,7 @@ Newcastle,1371.0,19
 Bournemouth,1379.64,19
 Brighton,1349.44,19
 Southampton,1332.72,19
+Wolves,1200,19
 Huddersfield,1305.2,19
 Cardiff,1200,19
 Fulham,1200,19
@@ -376,6 +395,7 @@ Newcastle,1362.2,20
 Bournemouth,1418.96,20
 Brighton,1359.0,20
 Southampton,1318.48,20
+Wolves,1376.08,20
 Huddersfield,1288.16,20
 Cardiff,1377.48,20
 Fulham,1369.2,20
@@ -395,6 +415,7 @@ Newcastle,1342.4,21
 Bournemouth,1403.48,21
 Brighton,1349.92,21
 Southampton,1325.76,21
+Wolves,1408.08,21
 Huddersfield,1299.44,21
 Cardiff,1355.16,21
 Fulham,1386.24,21
@@ -414,6 +435,7 @@ Newcastle,1331.52,22
 Bournemouth,1395.12,22
 Brighton,1338.88,22
 Southampton,1318.56,22
+Wolves,1429.32,22
 Huddersfield,1267.04,22
 Cardiff,1339.56,22
 Fulham,1377.8,22
@@ -433,6 +455,7 @@ Newcastle,1302.2,23
 Bournemouth,1432.04,23
 Brighton,1353.92,23
 Southampton,1296.28,23
+Wolves,1459.24,23
 Huddersfield,1266.8,23
 Cardiff,1309.72,23
 Fulham,1344.08,23
@@ -452,6 +475,7 @@ Newcastle,1286.52,24
 Bournemouth,1439.76,24
 Brighton,1394.16,24
 Southampton,1301.68,24
+Wolves,1410.52,24
 Huddersfield,1249.48,24
 Cardiff,1323.28,24
 Fulham,1307.64,24
@@ -471,6 +495,7 @@ Newcastle,1332.0,25
 Bournemouth,1398.12,25
 Brighton,1357.2,25
 Southampton,1299.52,25
+Wolves,1404.72,25
 Huddersfield,1271.24,25
 Cardiff,1322.2,25
 Fulham,1283.8,25
@@ -490,6 +515,7 @@ Newcastle,1331.32,26
 Bournemouth,1376.8,26
 Brighton,1374.52,26
 Southampton,1291.48,26
+Wolves,1354.4,26
 Huddersfield,1280.96,26
 Cardiff,1331.4,26
 Fulham,1294.88,26
@@ -509,6 +535,7 @@ Newcastle,1318.96,27
 Bournemouth,1378.4,27
 Brighton,1366.64,27
 Southampton,1271.8,27
+Wolves,1402.2,27
 Huddersfield,1264.16,27
 Cardiff,1332.2,27
 Fulham,1289.56,27
@@ -528,6 +555,7 @@ Newcastle,1332.28,28
 Bournemouth,1379.12,28
 Brighton,1336.8,28
 Southampton,1322.84,28
+Wolves,1407.08,28
 Huddersfield,1223.8,28
 Cardiff,1303.4,28
 Fulham,1279.68,28
@@ -547,6 +575,7 @@ Newcastle,1334.32,29
 Bournemouth,1363.68,29
 Brighton,1364.36,29
 Southampton,1296.6,29
+Wolves,1436.44,29
 Huddersfield,1206.08,29
 Cardiff,1339.44,29
 Fulham,1296.64,29
@@ -566,6 +595,7 @@ Newcastle,1314.96,30
 Bournemouth,1344.36,30
 Brighton,1360.88,30
 Southampton,1339.44,30
+Wolves,1403.0,30
 Huddersfield,1198.24,30
 Cardiff,1318.8,30
 Fulham,1274.4,30
@@ -585,6 +615,7 @@ Newcastle,1365.04,31
 Bournemouth,1390.04,31
 Brighton,1332.32,31
 Southampton,1355.08,31
+Wolves,1433.24,31
 Huddersfield,1181.08,31
 Cardiff,1294.88,31
 Fulham,1287.8,31
@@ -604,6 +635,7 @@ Newcastle,1358.4,32
 Bournemouth,1363.08,32
 Brighton,1309.0,32
 Southampton,1332.56,32
+Wolves,1453.72,32
 Huddersfield,1169.88,32
 Cardiff,1342.56,32
 Fulham,1266.96,32
@@ -623,6 +655,7 @@ Newcastle,1392.2,33
 Bournemouth,1347.92,33
 Brighton,1294.0,33
 Southampton,1337.48,33
+Wolves,1412.76,33
 Huddersfield,1193.72,33
 Cardiff,1299.52,33
 Fulham,1243.56,33
@@ -642,6 +675,7 @@ Newcastle,1393.76,34
 Bournemouth,1360.32,34
 Brighton,1333.8,34
 Southampton,1360.28,34
+Wolves,1432.04,34
 Huddersfield,1168.24,34
 Cardiff,1312.2,34
 Fulham,1223.16,34
@@ -661,6 +695,7 @@ Newcastle,1384.96,35
 Bournemouth,1344.52,35
 Brighton,1304.2,35
 Southampton,1373.52,35
+Wolves,1436.36,35
 Huddersfield,1154.6,35
 Cardiff,1295.8,35
 Fulham,1207.76,35
@@ -680,6 +715,7 @@ Newcastle,1403.32,36
 Bournemouth,1314.96,36
 Brighton,1258.44,36
 Southampton,1376.68,36
+Wolves,1416.2,36
 Huddersfield,1131.16,36
 Cardiff,1306.72,36
 Fulham,1265.48,36
@@ -699,6 +735,7 @@ Newcastle,1398.8,37
 Bournemouth,1321.96,37
 Brighton,1268.08,37
 Southampton,1374.84,37
+Wolves,1450.36,37
 Huddersfield,1130.04,37
 Cardiff,1282.56,37
 Fulham,1284.08,37
@@ -718,6 +755,7 @@ Newcastle,1407.32,38
 Bournemouth,1335.56,38
 Brighton,1277.16,38
 Southampton,1345.48,38
+Wolves,1452.84,38
 Huddersfield,1158.12,38
 Cardiff,1300.72,38
 Fulham,1258.64,38
