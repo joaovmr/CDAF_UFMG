@@ -1,0 +1,647 @@
+team,elo,round
+Arsenal,1416.6,1
+Brighton,1376.6,1
+Chelsea,1376.6,1
+Crystal Palace,1376.6,1
+Everton,1416.6,1
+Southampton,1396.6,1
+Watford,1396.6,1
+Man United,1416.6,1
+Newcastle,1376.6,1
+Bournemouth,1383.4,1
+Burnley,1423.4,1
+Leicester,1383.4,1
+Liverpool,1403.4,1
+Huddersfield,1423.4,1
+Tottenham,1423.4,1
+Man City,1423.4,1
+West Ham,1383.4,1
+Arsenal,1398.12,2
+Brighton,1360.4,2
+Chelsea,1402.56,2
+Crystal Palace,1361.48,2
+Everton,1420.4,2
+Southampton,1412.44,2
+Watford,1419.28,2
+Man United,1439.28,2
+Newcastle,1362.56,2
+Bournemouth,1360.72,2
+Burnley,1399.6,2
+Leicester,1399.6,2
+Liverpool,1418.52,2
+Huddersfield,1437.44,2
+Tottenham,1397.44,2
+Man City,1419.6,2
+West Ham,1367.56,2
+Arsenal,1382.68,3
+Brighton,1367.0,3
+Chelsea,1420.16,3
+Crystal Palace,1339.16,3
+Everton,1402.8,3
+Southampton,1417.24,3
+Watford,1412.68,3
+Man United,1453.68,3
+Newcastle,1379.44,3
+Bournemouth,1340.64,3
+Burnley,1402.88,3
+Leicester,1385.2,3
+Liverpool,1433.96,3
+Huddersfield,1432.64,3
+Tottenham,1394.16,3
+Man City,1439.68,3
+West Ham,1350.68,3
+Arsenal,1396.96,4
+Brighton,1387.44,4
+Chelsea,1441.6,4
+Crystal Palace,1326.0,4
+Everton,1378.88,4
+Southampton,1393.56,4
+Watford,1436.36,4
+Man United,1454.48,4
+Newcastle,1404.16,4
+Bournemouth,1326.36,4
+Burnley,1416.04,4
+Leicester,1363.76,4
+Liverpool,1417.68,4
+Huddersfield,1411.36,4
+Tottenham,1418.08,4
+Man City,1455.96,4
+West Ham,1371.96,4
+Arsenal,1402.8,5
+Brighton,1367.36,5
+Chelsea,1435.76,5
+Crystal Palace,1306.44,5
+Everton,1366.32,5
+Southampton,1413.12,5
+Watford,1414.04,5
+Man United,1467.04,5
+Newcastle,1420.88,5
+Bournemouth,1346.44,5
+Burnley,1419.56,5
+Leicester,1369.76,5
+Liverpool,1414.16,5
+Huddersfield,1405.36,5
+Tottenham,1412.48,5
+Man City,1478.28,5
+West Ham,1377.68,5
+Arsenal,1419.72,6
+Brighton,1387.0,6
+Chelsea,1456.56,6
+Crystal Palace,1298.12,6
+Everton,1381.8,6
+Southampton,1392.76,6
+Watford,1435.76,6
+Man United,1487.4,6
+Newcastle,1401.24,6
+Bournemouth,1330.96,6
+Burnley,1415.36,6
+Leicester,1348.88,6
+Liverpool,1435.04,6
+Huddersfield,1409.56,6
+Tottenham,1433.92,6
+Man City,1486.6,6
+West Ham,1356.24,6
+Arsenal,1434.52,7
+Brighton,1372.2,7
+Chelsea,1434.84,7
+Crystal Palace,1290.44,7
+Everton,1360.28,7
+Southampton,1374.84,7
+Watford,1436.68,7
+Man United,1495.08,7
+Newcastle,1399.72,7
+Bournemouth,1328.56,7
+Burnley,1436.88,7
+Leicester,1351.28,7
+Liverpool,1436.56,7
+Huddersfield,1387.52,7
+Tottenham,1455.96,7
+Man City,1508.32,7
+West Ham,1373.16,7
+Arsenal,1418.08,8
+Brighton,1368.12,8
+Chelsea,1410.08,8
+Crystal Palace,1315.2,8
+Everton,1364.36,8
+Southampton,1372.84,8
+Watford,1453.12,8
+Man United,1495.16,8
+Newcastle,1401.72,8
+Bournemouth,1318.4,8
+Burnley,1430.04,8
+Leicester,1350.12,8
+Liverpool,1436.48,8
+Huddersfield,1368.56,8
+Tottenham,1466.12,8
+Man City,1518.72,8
+West Ham,1380.0,8
+Arsenal,1438.44,9
+Brighton,1392.2,9
+Chelsea,1429.12,9
+Crystal Palace,1303.16,9
+Everton,1344.0,9
+Southampton,1390.52,9
+Watford,1434.08,9
+Man United,1471.36,9
+Newcastle,1413.76,9
+Bournemouth,1344.96,9
+Burnley,1418.12,9
+Leicester,1374.32,9
+Liverpool,1421.52,9
+Huddersfield,1392.36,9
+Tottenham,1481.08,9
+Man City,1530.64,9
+West Ham,1355.92,9
+Arsenal,1449.92,10
+Brighton,1388.68,10
+Chelsea,1447.72,10
+Crystal Palace,1302.76,10
+Everton,1329.08,10
+Southampton,1394.04,10
+Watford,1406.24,10
+Man United,1488.48,10
+Newcastle,1397.44,10
+Bournemouth,1326.36,10
+Burnley,1434.44,10
+Leicester,1389.24,10
+Liverpool,1436.48,10
+Huddersfield,1377.4,10
+Tottenham,1463.96,10
+Man City,1545.24,10
+West Ham,1356.32,10
+Arsenal,1438.32,11
+Brighton,1408.68,11
+Chelsea,1466.6,11
+Crystal Palace,1294.0,11
+Everton,1350.08,11
+Southampton,1372.92,11
+Watford,1385.24,11
+Man United,1469.6,11
+Newcastle,1370.24,11
+Bournemouth,1353.56,11
+Burnley,1455.56,11
+Leicester,1392.04,11
+Liverpool,1455.32,11
+Huddersfield,1393.0,11
+Tottenham,1472.72,11
+Man City,1556.84,11
+West Ham,1337.48,11
+Arsenal,1456.84,12
+Brighton,1403.4,12
+Chelsea,1483.04,12
+Crystal Palace,1293.76,12
+Everton,1350.32,12
+Southampton,1360.68,12
+Watford,1399.24,12
+Man United,1481.0,12
+Newcastle,1358.84,12
+Bournemouth,1372.36,12
+Burnley,1464.88,12
+Leicester,1377.88,12
+Liverpool,1467.56,12
+Huddersfield,1374.2,12
+Tottenham,1454.2,12
+Man City,1571.0,12
+West Ham,1323.48,12
+Arsenal,1480.72,13
+Brighton,1390.92,13
+Chelsea,1485.6,13
+Crystal Palace,1315.28,13
+Everton,1334.32,13
+Southampton,1376.68,13
+Watford,1420.36,13
+Man United,1493.48,13
+Newcastle,1337.72,13
+Bournemouth,1371.6,13
+Burnley,1441.0,13
+Leicester,1378.2,13
+Liverpool,1465.0,13
+Huddersfield,1361.68,13
+Tottenham,1444.4,13
+Man City,1583.52,13
+West Ham,1323.16,13
+Arsenal,1491.24,14
+Brighton,1383.48,14
+Chelsea,1493.44,14
+Crystal Palace,1322.72,14
+Everton,1350.28,14
+Southampton,1369.6,14
+Watford,1401.12,14
+Man United,1512.72,14
+Newcastle,1341.12,14
+Bournemouth,1352.16,14
+Burnley,1460.44,14
+Leicester,1398.56,14
+Liverpool,1482.36,14
+Huddersfield,1351.16,14
+Tottenham,1424.04,14
+Man City,1590.6,14
+West Ham,1307.2,14
+Arsenal,1469.04,15
+Brighton,1365.72,15
+Chelsea,1502.56,15
+Crystal Palace,1326.76,15
+Everton,1366.92,15
+Southampton,1372.04,15
+Watford,1399.0,15
+Man United,1534.92,15
+Newcastle,1332.0,15
+Bournemouth,1349.72,15
+Burnley,1440.32,15
+Leicester,1418.68,15
+Liverpool,1500.12,15
+Huddersfield,1334.52,15
+Tottenham,1426.16,15
+Man City,1595.48,15
+West Ham,1302.32,15
+Arsenal,1466.92,16
+Brighton,1347.36,16
+Chelsea,1474.88,16
+Crystal Palace,1324.64,16
+Everton,1377.04,16
+Southampton,1374.16,16
+Watford,1384.68,16
+Man United,1514.96,16
+Newcastle,1313.52,16
+Bournemouth,1351.84,16
+Burnley,1454.64,16
+Leicester,1437.16,16
+Liverpool,1490.0,16
+Huddersfield,1352.88,16
+Tottenham,1438.96,16
+Man City,1615.44,16
+West Ham,1330.0,16
+Arsenal,1462.56,17
+Brighton,1335.56,17
+Chelsea,1491.36,17
+Crystal Palace,1344.64,17
+Everton,1396.84,17
+Southampton,1354.32,17
+Watford,1364.68,17
+Man United,1523.64,17
+Newcastle,1293.72,17
+Bournemouth,1343.16,17
+Burnley,1465.48,17
+Leicester,1457.0,17
+Liverpool,1478.04,17
+Huddersfield,1336.4,17
+Tottenham,1450.76,17
+Man City,1622.84,17
+West Ham,1334.36,17
+Arsenal,1471.0,18
+Brighton,1339.52,18
+Chelsea,1501.08,18
+Crystal Palace,1373.84,18
+Everton,1407.92,18
+Southampton,1344.6,18
+Watford,1339.72,18
+Man United,1535.92,18
+Newcastle,1285.28,18
+Bournemouth,1327.4,18
+Burnley,1461.52,18
+Leicester,1427.8,18
+Liverpool,1493.8,18
+Huddersfield,1361.36,18
+Tottenham,1442.44,18
+Man City,1631.16,18
+West Ham,1357.64,18
+Arsenal,1468.88,19
+Brighton,1356.12,19
+Chelsea,1499.16,19
+Crystal Palace,1371.84,19
+Everton,1409.84,19
+Southampton,1342.12,19
+Watford,1323.12,19
+Man United,1533.16,19
+Newcastle,1312.56,19
+Bournemouth,1323.0,19
+Burnley,1437.04,19
+Leicester,1430.56,19
+Liverpool,1495.92,19
+Huddersfield,1363.84,19
+Tottenham,1466.92,19
+Man City,1635.56,19
+West Ham,1330.36,19
+Arsenal,1486.76,20
+Brighton,1346.64,20
+Chelsea,1508.64,20
+Crystal Palace,1353.96,20
+Everton,1406.64,20
+Southampton,1331.84,20
+Watford,1345.84,20
+Man United,1524.72,20
+Newcastle,1305.36,20
+Bournemouth,1320.0,20
+Burnley,1445.48,20
+Leicester,1407.84,20
+Liverpool,1502.76,20
+Huddersfield,1358.32,20
+Tottenham,1477.2,20
+Man City,1642.76,20
+West Ham,1333.36,20
+Arsenal,1479.6,21
+Brighton,1343.96,21
+Chelsea,1516.76,21
+Crystal Palace,1365.52,21
+Everton,1385.12,21
+Southampton,1344.28,21
+Watford,1318.6,21
+Man United,1512.28,21
+Newcastle,1304.28,21
+Bournemouth,1345.28,21
+Burnley,1443.92,21
+Leicester,1396.2,21
+Liverpool,1514.4,21
+Huddersfield,1359.88,21
+Tottenham,1888,21
+Man City,1631.2,21
+West Ham,1673,21
+Arsenal,1478.28,22
+Brighton,1584,22
+Chelsea,1518.08,22
+Crystal Palace,1387.76,22
+Everton,1368.92,22
+Southampton,1322.04,22
+Watford,1314.4,22
+Man United,1528.48,22
+Newcastle,1328.72,22
+Bournemouth,1654,22
+Burnley,1424.52,22
+Leicester,1410.8,22
+Liverpool,1533.8,22
+Huddersfield,1345.28,22
+Tottenham,1480.32,22
+Man City,1635.4,22
+West Ham,1358.8,22
+Arsenal,1454.12,23
+Brighton,1324.24,23
+Chelsea,1509.12,23
+Crystal Palace,1406.44,23
+Everton,1358.04,23
+Southampton,1325.04,23
+Watford,1311.4,23
+Man United,1534.8,23
+Newcastle,1323.08,23
+Bournemouth,1369.44,23
+Burnley,1405.84,23
+Leicester,1419.76,23
+Liverpool,1556.2,23
+Huddersfield,1322.64,23
+Tottenham,1491.2,23
+Man City,1613.0,23
+West Ham,1381.44,23
+Arsenal,1468.12,24
+Brighton,1311.12,24
+Chelsea,1522.24,24
+Crystal Palace,1392.44,24
+Everton,1351.96,24
+Southampton,1330.96,24
+Watford,1300.4,24
+Man United,1550.88,24
+Newcastle,1318.36,24
+Bournemouth,1373.52,24
+Burnley,1389.76,24
+Leicester,1430.76,24
+Liverpool,1525.72,24
+Huddersfield,1304.32,24
+Tottenham,1485.28,24
+Man City,1617.72,24
+West Ham,1377.36,24
+Arsenal,1443.4,25
+Brighton,1315.64,25
+Chelsea,1491.48,25
+Crystal Palace,1395.0,25
+Everton,1373.04,25
+Southampton,1326.44,25
+Watford,1304.36,25
+Man United,1530.56,25
+Newcastle,1319.0,25
+Bournemouth,1404.28,25
+Burnley,1389.12,25
+Leicester,1409.68,25
+Liverpool,1537.04,25
+Huddersfield,1293.0,25
+Tottenham,1505.6,25
+Man City,1622.12,25
+West Ham,1374.8,25
+Arsenal,1456.24,26
+Brighton,1335.6,26
+Chelsea,1464.48,26
+Crystal Palace,1387.56,26
+Everton,1360.2,26
+Southampton,1348.96,26
+Watford,1331.36,26
+Man United,1536.68,26
+Newcastle,1326.44,26
+Bournemouth,1415.76,26
+Burnley,1398.32,26
+Leicester,1403.0,26
+Liverpool,1531.88,26
+Huddersfield,1286.88,26
+Tottenham,1510.76,26
+Man City,1612.92,26
+West Ham,1354.84,26
+Arsenal,1442.6,27
+Brighton,1336.68,27
+Chelsea,1472.64,27
+Crystal Palace,1369.44,27
+Everton,1378.32,27
+Southampton,1335.76,27
+Watford,1316.08,27
+Man United,1508.52,27
+Newcastle,1354.6,27
+Bournemouth,1391.84,27
+Burnley,1379.32,27
+Leicester,1396.0,27
+Liverpool,1545.08,27
+Huddersfield,1310.8,27
+Tottenham,1524.4,27
+Man City,1619.92,27
+West Ham,1370.12,27
+Arsenal,1429.12,28
+Brighton,1355.4,28
+Chelsea,1458.04,28
+Crystal Palace,1354.76,28
+Everton,1358.2,28
+Southampton,1341.56,28
+Watford,1336.2,28
+Man United,1523.12,28
+Newcastle,1360.04,28
+Bournemouth,1386.4,28
+Burnley,1373.52,28
+Leicester,1387.28,28
+Liverpool,1553.28,28
+Huddersfield,1332.44,28
+Tottenham,1539.08,28
+Man City,1633.4,28
+West Ham,1361.92,28
+Arsenal,1408.32,29
+Brighton,1376.2,29
+Chelsea,1449.84,29
+Crystal Palace,1340.8,29
+Everton,1342.48,29
+Southampton,1336.0,29
+Watford,1348.64,29
+Man United,1537.08,29
+Newcastle,1352.48,29
+Bournemouth,1389.88,29
+Burnley,1389.24,29
+Leicester,1383.8,29
+Liverpool,1560.84,29
+Huddersfield,1325.36,29
+Tottenham,1546.16,29
+Man City,1641.6,29
+West Ham,1345.0,29
+Arsenal,1421.68,30
+Brighton,1357.72,30
+Chelsea,1460.8,30
+Crystal Palace,1329.84,30
+Everton,1360.96,30
+Southampton,1320.32,30
+Watford,1335.28,30
+Man United,1555.0,30
+Newcastle,1368.16,30
+Bournemouth,1375.28,30
+Burnley,1410.16,30
+Leicester,1399.36,30
+Liverpool,1542.92,30
+Huddersfield,1324.64,30
+Tottenham,1560.76,30
+Man City,1648.44,30
+West Ham,1324.08,30
+Arsenal,1848,31
+Brighton,1336.68,31
+Chelsea,1909,31
+Crystal Palace,1340.48,31
+Everton,1371.68,31
+Southampton,1692,31
+Watford,1328.04,31
+Man United,1562.96,31
+Newcastle,1381.16,31
+Bournemouth,1384.88,31
+Burnley,1629,31
+Leicester,1420.4,31
+Liverpool,1562.44,31
+Huddersfield,1288.52,31
+Tottenham,1888,31
+Man City,1657.72,31
+West Ham,1673,31
+Arsenal,1431.28,32
+Brighton,1330.64,32
+Chelsea,1443.08,32
+Crystal Palace,1346.32,32
+Everton,1378.88,32
+Southampton,1303.96,32
+Watford,1604,32
+Man United,1591.32,32
+Newcastle,1406.72,32
+Bournemouth,1379.04,32
+Burnley,1423.04,32
+Leicester,1394.84,32
+Liverpool,1555.24,32
+Huddersfield,1294.56,32
+Tottenham,1586.24,32
+Man City,1629.36,32
+West Ham,1340.44,32
+Arsenal,1441.44,33
+Brighton,1314.92,33
+Chelsea,1449.8,33
+Crystal Palace,1362.04,33
+Everton,1381.24,33
+Southampton,1278.36,33
+Watford,1292.6,33
+Man United,1858,33
+Newcastle,1623,33
+Bournemouth,1370.88,33
+Burnley,1455.12,33
+Leicester,1380.76,33
+Liverpool,1563.4,33
+Huddersfield,1312.0,33
+Tottenham,1888,33
+Man City,1867,33
+West Ham,1349.16,33
+Arsenal,1422.88,34
+Brighton,1324.88,34
+Chelsea,1473.52,34
+Crystal Palace,1361.48,34
+Everton,1752,34
+Southampton,1287.08,34
+Watford,1293.16,34
+Man United,1567.48,34
+Newcastle,1425.28,34
+Bournemouth,1357.68,34
+Burnley,1431.4,34
+Leicester,1372.04,34
+Liverpool,1550.96,34
+Huddersfield,1476,34
+Tottenham,1555.32,34
+Man City,1650.32,34
+West Ham,1341.24,34
+Arsenal,1435.16,35
+Brighton,1333.52,35
+Chelsea,1909,35
+Crystal Palace,1378.64,35
+Everton,1418.68,35
+Southampton,1307.68,35
+Watford,1604,35
+Man United,1858,35
+Newcastle,1375.68,35
+Bournemouth,1337.08,35
+Burnley,1417.16,35
+Leicester,1354.88,35
+Liverpool,1536.08,35
+Huddersfield,1293.64,35
+Tottenham,1888,35
+Man City,1654.96,35
+West Ham,1328.96,35
+Arsenal,1425.24,36
+Brighton,1363.2,36
+Chelsea,1490.08,36
+Crystal Palace,1397.12,36
+Everton,1409.56,36
+Southampton,1316.8,36
+Watford,1309.36,36
+Man United,1547.72,36
+Newcastle,1354.08,36
+Bournemouth,1353.64,36
+Burnley,1629,36
+Leicester,1329.64,36
+Liverpool,1837,36
+Huddersfield,1476,36
+Tottenham,1560.72,36
+Man City,1662.08,36
+West Ham,1347.08,36
+Arsenal,1418.4,37
+Brighton,1358.28,37
+Chelsea,1496.64,37
+Crystal Palace,1643,37
+Everton,1752,37
+Southampton,1340.4,37
+Watford,1604,37
+Man United,1540.04,37
+Newcastle,1345.88,37
+Bournemouth,1654,37
+Burnley,1401.04,37
+Leicester,1352.6,37
+Liverpool,1516.88,37
+Huddersfield,1323.16,37
+Tottenham,1538.2,37
+Man City,1650.12,37
+West Ham,1354.76,37
+Arsenal,1436.36,38
+Brighton,1349.44,38
+Chelsea,1471.52,38
+Crystal Palace,1409.8,38
+Everton,1389.84,38
+Southampton,1332.72,38
+Watford,1303.04,38
+Man United,1546.36,38
+Newcastle,1371.0,38
+Bournemouth,1379.64,38
+Burnley,1375.04,38
+Leicester,1344.76,38
+Liverpool,1525.72,38
+Huddersfield,1305.2,38
+Tottenham,1546.04,38
+Man City,1657.8,38
+West Ham,1374.48,38
